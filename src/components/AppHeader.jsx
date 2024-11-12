@@ -13,7 +13,6 @@ export default function () {
                     {appTitle}
                 </h1>
             </div>
-
         </header>
     )
 }
